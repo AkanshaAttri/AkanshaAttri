@@ -1,6 +1,6 @@
 <div align="left">
 
-> ### 🌷 Akansha Attri
+> ### 🌷 Akansha Attri 🌷
 >
 > `github.com/AkanshaAttri`
 
